@@ -20,6 +20,10 @@ This project is built on LangChain 1.0, supports multimodal inputs, and provides
 ## 🎬 Demo
 
 
+https://github.com/user-attachments/assets/3d4626ae-d891-48f3-8d7c-2a468b1a4f88
+
+
+
 ## 🚀 Quick Start
 
 Start backend
